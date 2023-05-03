@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson3-1</string>
+    <string name="Display">Display</string>
+    <string name="ES">Enter Something</string>
+    <string name="Display_User">Display what the user enters</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="GenderM">Male</string>
+    <string name="GenderF">Female</string>
+    <string name="stringResponse"></string>
+
+
+</resources>
